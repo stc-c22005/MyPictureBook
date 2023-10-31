@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyPictureBook</string>
+    <string name="bt_title">ブラキオサウルス</string>
+    <string name="bt_title2">TREX</string>
+    <string name="bt_title3">プテラノドン</string>
+    <string name="bt_title4">ティラノサウルス</string>
+    <string name="tv_title">ティラノサウルス</string>
+    <string name="tv_maintitle">恐竜図鑑</string>
+    <string name="tv_burakio">ブラキオサウルスの体長（全長）は約25m、体高（頭頂高）は約16mに及び、
+        近年まで最も背の高い恐竜とされていた。かつては「体重は80t（以上）と最も重い恐竜であり、
+        その体重を支えるために池や湖など水の中で暮らした」と推測されたこともあったが、
+        横隔膜を持っていなかったため水圧で肺が押し潰され、呼吸ができなくなるということが判明している。
+    </string>
+    <string name="tv_trex">ティラノサウルスの最大全長は約13メートル、最大体重は約9トンと、
+        現在まで報告されている獣脚類の中で史上最大級の体格を誇る種の一つに数えられており、
+        中生代最後の地質区分とされるマーストリヒチアン最末期の約400万年間にかけて北米ララミディア大陸に生息していた。
+        そしてK-Pg境界を境に絶滅している。
+    </string>
+    <string name="tv_puterano">プテラノドンの翼開長はロンギケプス種で約7~8メートル、ステルンベルギ種では約9メートルもの大きさになるが、
+        揚力を稼き出すための翼は羽毛ではなく皮膚と同じ組織でできている、膜状の翼である皮翼で、
+        骨格はいたって軽量な構造体となっている。推定体重は15 - 20キログラムと中型犬と同程度でしかなく、
+        力強く羽ばたくために必要な筋肉量を付着させ得る骨表面のスペースは鳥類ほど多くない。
+    </string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
